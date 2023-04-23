@@ -136,6 +136,6 @@ Handle the following flag characters for non-custom conversion specifiers:
 ## Authors
 
 - [@Adib Elmarbout](https://www.github.com/adibelma)
-- [@Adib Elmarbout](https://www.github.com/Ussef7)
+- [@Youssef Elkhadiri](https://www.github.com/Ussef7)
 
 
